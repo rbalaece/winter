@@ -1,5 +1,5 @@
 <?php
 
-echo 'hai boss';
+echo 'hai';
 
 ?>

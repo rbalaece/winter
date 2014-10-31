@@ -2,4 +2,6 @@
 
 echo 'hai';
 
+echo 'Welocme';
+
 ?>
